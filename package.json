@@ -1,0 +1,17 @@
+{
+  "name": "parsey-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.3.2",
+    "openai": "^4.98.0"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.7",
+    "@types/node": "^22.15.18"
+  }
+}
