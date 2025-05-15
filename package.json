@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@types/next": "^8.0.7",
-    "@types/node": "^22.15.18"
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
   }
 }
